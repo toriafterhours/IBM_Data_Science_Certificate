@@ -1,0 +1,1 @@
+The Final Project notebook includes a comparison between K Nearest Neighbors, Decision Trees, Support Vector Machine (SVM), and Logistic Regression, given a set of loan data. To determine the accurary of each classifier, the following metrics were used: Jaccard index, F1-score, Log Loss.  
